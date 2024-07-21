@@ -203,6 +203,8 @@ public class Atm_Interface {
 								break;
 							}
 						}
+					}else{
+						return;
 					}
 				}
 			
