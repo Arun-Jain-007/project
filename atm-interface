@@ -145,7 +145,7 @@ public class Atm_Interface {
 	
 	public static void main(String[] args) {
 	
-		System.out.println("\n**********WELCOME TO  ATM SYSTEM**********\n");
+		System.out.println("\n**********WELCOME TO  ATM SYSTEM (ARUN JAIN)**********\n");
 		System.out.println("1) Register");
 		System.out.println("---------------------------");
 		System.out.println("2) Exit");
